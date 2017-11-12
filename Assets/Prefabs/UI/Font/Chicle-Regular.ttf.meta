@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0ea4aa1b93881ea4d99025d4de8479ab
+timeCreated: 1508033215
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chicle
+  fontNames:
+  - Chicle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c2d4527e5b3bc84e97a9e8726343182
+timeCreated: 1508034563
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vinegar Stroke
+  fontNames:
+  - Vinegar Stroke
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

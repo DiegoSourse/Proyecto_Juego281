@@ -1,2 +1,2 @@
-# Proyecto_Juego281
-Proyecto Juego en Unity para INF-281
+# Proyecto_281
+Proyecto de INF-281 en Unity3D de UMSA

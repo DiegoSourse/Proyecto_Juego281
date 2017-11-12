@@ -1,0 +1,34 @@
+git config --global user.name "Diego"
+git config --global user.email "diego.2012.infognu@gmail.com"
+git config --list
+
+ssh-keygen
+
+git remote add origin <codigo SSH o HTTP>
+
+-------------------------------------------------------------------
+git branch Uno 			//crear rama
+git push origin Uno 		//subir rama al servidor
+-------------------------------------------------------------------
+git checkout Uno 		//cambiar a rama local
+git pull origin Uno 		//Descargar datos de rama
+-------------------------------------------------------------------
+--Modificamos algun archivo
+git add -A
+git commit -m "Mensaje"
+git push origin Uno 		//subir datos a rama remota
+-------------------------------------------------------------------
+git branch 			//muestra las ramas locales
+git branch -a			//Muestra ramas remotas y locales
+git branch -d Uno		//ELimina rama loca
+git push origin :Uno		//Elimina rama remota
+-------------------------------------------------------------------
+para fusionar
+-Unir de las ramas al Master
+git checkout master
+git merge Uno
+
+
+git fetch --all
+git reset --hard origin/master
+git reset --hard origin/<rama>
